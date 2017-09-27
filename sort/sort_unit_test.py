@@ -2,6 +2,8 @@ import unittest
 import datetime
 import random
 from bubble_sort import bubble_sort
+from merge_sort import merge_sort
+from heap_sort import heap_sort
 
 
 def time_check(fn, case):
@@ -11,6 +13,8 @@ def time_check(fn, case):
         result = sorted(case)
     else:
         result = fn(case)
+        fn = str(fn)
+        fn = fn.split(' ')[1]
 
     end_time = datetime.datetime.now()
     print(fn, 'time =', end_time - start_time)
@@ -18,7 +22,7 @@ def time_check(fn, case):
     return result
 
 
-test_count = 10000
+test_count = 12
 test_case_scope = [1, 100]
 test_case = []
 
@@ -30,7 +34,18 @@ python_sroted = time_check('python sorted', test_case)
 
 class SortAlgorithmTest(unittest.TestCase):
     def test_bubble_sort(self):
-        result = time_check(bubble_sort, test_case)
+        case = test_case[:]
+        result = time_check(bubble_sort, case)
+        self.assertEqual(python_sroted, result)
+
+    def test_merge_sort(self):
+        case = test_case[:]
+        result = time_check(merge_sort, case)
+        self.assertEqual(python_sroted, result)
+
+    def test_heap_sort(self):
+        case = test_case[:]
+        result = time_check(heap_sort, case)
         self.assertEqual(python_sroted, result)
 
 

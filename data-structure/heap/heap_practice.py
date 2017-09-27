@@ -1,7 +1,11 @@
 class Heap:
-    def __init__(self, comparator):
+    def __init__(self, comparator=None):
         self.heap = []
-        self.comparator = comparator
+
+        if not comparator:
+            self.comparator = lambda x, y: x > y
+        else:
+            self.comparator = comparator
 
     def __len__(self):
         return len(self.heap)
@@ -49,6 +53,17 @@ class Heap:
 
             self.heap[next], self.heap[index] = self.heap[index], self.heap[next]
             index = next
+
+    def heapify(self, items):
+        n = len(items)
+        self.heap = items
+        parent = self.parent_index(n)
+
+        while parent > -1:
+            self.sift_down(parent)
+            parent -= 1
+        items = self.heap
+        return self.heap
 
     def pop(self):
         if len(self.heap) == 0:
