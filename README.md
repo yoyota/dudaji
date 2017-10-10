@@ -1,5 +1,5 @@
-#dudaji
-----
+dudaji
+===========
 
 _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 
@@ -10,15 +10,15 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 - [front-end question](#front-end)
 
 ## basic
-*	[stack](https://www.youtube.com/watch?v=aLGRw0OiNmk)
-*	[queue](https://www.youtube.com/watch?v=_KVtH_nAZLg)
+*	**stack** - _[youtbue](https://www.youtube.com/watch?v=aLGRw0OiNmk), [source code](data-structure/stack/stack_practice.py)_
+*	**queue** - _[youtube](https://www.youtube.com/watch?v=_KVtH_nAZLg), [source code](data-structure/queue/queue_practice.py)_
 *	linked list
-*	[해시테이블](https://www.youtube.com/watch?v=qXcHg0N6f9o)
-*	[우선순위큐](https://www.youtube.com/watch?v=_KVtH_nAZLg)
-*	[버블소트](https://www.youtube.com/watch?v=8DnDUGxDBOg)
-*	[머지소트](https://www.youtube.com/watch?v=W-ksxCkwGh0)
-*	[이진트리](https://www.youtube.com/watch?v=4WvUQyKVPAU)
-*	[힙소트](https://www.youtube.com/watch?v=eN9tuusEvtg)
+*	**해시테이블** - _[youtube](https://www.youtube.com/watch?v=qXcHg0N6f9o), [source code](data-structure/hash-table/hash_table_practice.py)_
+*	**우선순위큐** - _[youtube](https://www.youtube.com/watch?v=_KVtH_nAZLg), [source code](data-structure/heap/heap_practice.py)_
+*	**버블소트** - _[youtube](https://www.youtube.com/watch?v=8DnDUGxDBOg), [source code](sort/bubble_sort.py)_
+*	**머지소트** - _[youtube](https://www.youtube.com/watch?v=W-ksxCkwGh0), [source code](sort/merge_sort.py)_
+*	**이진트리** - _[youtube](https://www.youtube.com/watch?v=4WvUQyKVPAU), [source code](data-structure/tree/tree_practice.py)_
+*	**힙소트** - _[youtube](https://www.youtube.com/watch?v=eN9tuusEvtg), [source code](sort/heap_sort.py)_
 *	컴파일러, 링크, 인터프리터
 *	어셈블리어의 하드웨어 레벨 동작 원리
 *	가상 메모리와 페이징
