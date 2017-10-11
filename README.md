@@ -21,12 +21,12 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 *	**힙소트** - _[youtube](https://www.youtube.com/watch?v=eN9tuusEvtg), [source code](sort/heap_sort.py)_
 *	**컴파일러, 링크, 인터프리터** - _[youtube](https://www.youtube.com/watch?v=ZHoZj1ke1uk)_
 *	**어셈블리어의 하드웨어 레벨 동작 원리** - _[youtube](https://youtu.be/pK3jXe2UvIg)_
-*	가상 메모리와 페이징
+*	**가상 메모리와 페이징** - _[youtube](https://youtu.be/KnQjXQ04yOc)_
 *	멀티스레드 동작 원리
 *	PCB, TCB에 담겨 있는 정보와 그 이유
 *	스핀락과 세마포어 비교 설명
 *	**파이프라인 설명** - _[youtube](https://youtu.be/Nozm_5elf6U)_
-*	캐시 설명 (히트, 정책 등)
+*	**캐시 설명 (히트, 정책 등)** - _[yotube](https://youtu.be/5DO0dmPReMo)_
 *	CPU 스케줄러
 *	TCP/UDP의 원리
 *	비동기 I/O
