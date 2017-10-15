@@ -106,5 +106,18 @@ ENV/
 # vim
 *.swp
 
+# CMake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+cmake-build-debug
+CMakeLists.txt
+
 # hate
 pseudo_code.py
