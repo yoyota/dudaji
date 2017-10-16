@@ -40,8 +40,8 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 *	클래스 / 시퀀스 다이어그램
 *	코드 컴플리트 2 책 요약 설명
 *	git 충돌 해결
-*	git-flow
-*	linux structures
+*	**git-flow** - _[youtube](https://youtu.be/UFXDRJ7ownc)_
+*	**linux structures** - _[youtube](https://youtu.be/ppzhUGDneig)_
 *	bashrc
 *	shell script
 *	ssh key 인증
