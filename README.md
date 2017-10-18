@@ -24,7 +24,7 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 *	**가상 메모리와 페이징** - _[youtube](https://youtu.be/KnQjXQ04yOc)_
 *	**멀티스레드 동작 원리** - _[youtube](https://www.youtube.com/watch?v=xYxAIbU_gl4)_
 *	**PCB, TCB에 담겨 있는 정보와 그 이유** - _[youtube](https://www.youtube.com/watch?v=IO_zh9OsmXg)_
-*	스핀락과 세마포어 비교 설명
+*	**스핀락과 세마포어 비교 설명** - _[youtube](https://youtu.be/YqhcQs1JmNE) [spin_lock](operating_system/spin_lock) [semaphore](operating_system/semaphore)_
 *	**파이프라인 설명** - _[youtube](https://youtu.be/Nozm_5elf6U)_
 *	**캐시 설명 (히트, 정책 등)** - _[yotube](https://youtu.be/5DO0dmPReMo)_
 *	**CPU 스케줄러** - _[youtube](https://www.youtube.com/watch?v=6hWhyjhvo58)_
