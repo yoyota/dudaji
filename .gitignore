@@ -120,4 +120,6 @@ cmake-build-debug
 CMakeLists.txt
 
 # hate
+*.un~
+*.swo
 pseudo_code.py
