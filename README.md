@@ -1,7 +1,7 @@
 dudaji
 ===========
 
-_Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
+_Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 
 ## Table of contents
 
@@ -31,7 +31,7 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * **CPU 스케줄러** - _[youtube](https://www.youtube.com/watch?v=6hWhyjhvo58)_
 * TCP/UDP의 원리
 * 비동기 I/O
-* DB 정규화
+* **DB 정규화** - _[youtube](https://www.youtube.com/edit?o=U&video_id=hWHK5Htmz0o)_
 * 스트레터지 패턴
 * 커맨드 패턴
 * 옵져버 패턴
@@ -60,7 +60,7 @@ _Qoontree intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * 리눅스 권한
 * zookeeper
 * message queue like redis
-* argparse
+* **argparse** - _[youtube](https://youtu.be/vrDS_yidlIQ)_
 * gunicorn
 * pm2
 * fabric
