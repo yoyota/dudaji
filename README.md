@@ -24,15 +24,15 @@ _Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * **가상 메모리와 페이징** - _[youtube](https://youtu.be/KnQjXQ04yOc)_
 * **멀티스레드 동작 원리** - _[youtube](https://www.youtube.com/watch?v=xYxAIbU_gl4)_
 * **PCB, TCB에 담겨 있는 정보와 그 이유** - _[youtube](https://www.youtube.com/watch?v=IO_zh9OsmXg)_
-* **스핀락과 세마포어 비교 설명** - _[youtube](https://youtu.be/YqhcQs1JmNE), [source code](operating_system/Locking)_
-* **생산자 소비자 문제** - _[youtube](https://www.youtube.com/watch?v=h5gVkX7JEeU&t=8s), [source code](operating_system/producer_consumer/producer_consumer.py)_
+* **스핀락과 세마포어 비교 설명** - _[youtube](https://youtu.be/YqhcQs1JmNE), [source code](operating-system/Locking)_
+* **생산자 소비자 문제** - _[youtube](https://www.youtube.com/watch?v=h5gVkX7JEeU&t=8s), [source code](operating-system/producer_consumer/producer_consumer.py)_
 * **파이프라인 설명** - _[youtube](https://youtu.be/Nozm_5elf6U)_
 * **캐시 설명 (히트, 정책 등)** - _[yotube](https://youtu.be/5DO0dmPReMo)_
 * **CPU 스케줄러** - _[youtube](https://www.youtube.com/watch?v=6hWhyjhvo58)_
 * TCP/UDP의 원리
 * 비동기 I/O
 * **DB 정규화** - _[youtube](https://www.youtube.com/edit?o=U&video_id=hWHK5Htmz0o)_
-* 스트레터지 패턴
+* **스트레터지 패턴** - _[youtube](https://youtu.be/Y8KVyVxdlpA)_
 * 커맨드 패턴
 * 옵져버 패턴
 * 팩토리 패턴
