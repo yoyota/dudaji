@@ -79,3 +79,7 @@ _Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * sqlalchemy
 * react router
 * react middleware 
+
+### reference
+* https://github.com/faif/python-patterns
+* https://github.com/keon/algorithms
