@@ -33,7 +33,7 @@ _Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * 비동기 I/O
 * **DB 정규화** - _[youtube](https://www.youtube.com/edit?o=U&video_id=hWHK5Htmz0o)_
 * **스트레터지 패턴** - _[youtube](https://youtu.be/Y8KVyVxdlpA), [source code](design-pattern/strategy_pattern.py)_
-* 커맨드 패턴
+* **커맨드 패턴** - _[youtube](https://youtu.be/J_9OF5hmdHI), [source code](design-pattern/command_pattern.py)_
 * **옵저버 패턴** - _[youtube](https://youtu.be/qfLjdHYaIL0), [source code](design-pattern/observer_pattern.py)_
 * 팩토리 패턴
 * 스크럼
