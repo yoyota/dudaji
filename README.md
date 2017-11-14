@@ -35,7 +35,7 @@ _Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * **스트레터지 패턴** - _[youtube](https://youtu.be/Y8KVyVxdlpA), [source code](design-pattern/strategy_pattern.py)_
 * **커맨드 패턴** - _[youtube](https://youtu.be/J_9OF5hmdHI), [source code](design-pattern/command_pattern.py)_
 * **옵저버 패턴** - _[youtube](https://youtu.be/qfLjdHYaIL0), [source code](design-pattern/observer_pattern.py)_
-* 팩토리 패턴
+* **팩토리 패턴** - _[youtube](https://youtu.be/sHfBjSIh00o), [source code](design-pattern/factory_method_pattern.py)_
 * 스크럼
 * 에디터 자주 쓰는 단축키 설명
 * 클래스 / 시퀀스 다이어그램
