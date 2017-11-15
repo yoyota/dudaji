@@ -1,7 +1,7 @@
 dudaji
 ===========
 
-_Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
+_Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/study)_
 
 ## Table of contents
 
