@@ -42,7 +42,7 @@ _Dudaji intern project for [dudaji](https://sites.google.com/view/dudaji)_
 * 코드 컴플리트 2 책 요약 설명
 * **git 충돌 해결** - _[youtube](https://youtu.be/ppzhUGDneig)_
 * **git-flow** - _[youtube](https://youtu.be/UFXDRJ7ownc)_
-* linux structures
+* **linux strucures** - _[youtube](https://youtu.be/DQUtHNpPExA)_
 * bashrc
 * shell script
 * ssh key 인증
