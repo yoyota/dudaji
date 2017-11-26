@@ -12,7 +12,7 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 ## basic
 * **stack** - _[youtbue](https://www.youtube.com/watch?v=aLGRw0OiNmk), [source code](data-structure/stack/stack_practice.py)_
 * **queue** - _[youtube](https://www.youtube.com/watch?v=_KVtH_nAZLg), [source code](data-structure/queue/queue_practice.py)_
-* linked list
+* **linked list** - _[youtube](https://youtu.be/UJdjJ2RCpew), [source code](data-structure/linked-list/linked_list.py)_
 * **해시테이블** - _[youtube](https://www.youtube.com/watch?v=qXcHg0N6f9o), [source code](data-structure/hash-table/hash_table_practice.py)_
 * **우선순위큐** - _[youtube](https://www.youtube.com/watch?v=_KVtH_nAZLg), [source code](data-structure/heap/heap_practice.py)_
 * **버블소트** - _[youtube](https://www.youtube.com/watch?v=8DnDUGxDBOg), [source code](sort/bubble_sort.py)_
@@ -42,7 +42,7 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 * 코드 컴플리트 2 책 요약 설명
 * **git 충돌 해결** - _[youtube](https://youtu.be/ppzhUGDneig)_
 * **git-flow** - _[youtube](https://youtu.be/UFXDRJ7ownc)_
-* linux structures
+* **linux strucures** - _[youtube](https://youtu.be/DQUtHNpPExA)_
 * bashrc
 * shell script
 * ssh key 인증
