@@ -37,7 +37,7 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 * **옵저버 패턴** - _[youtube](https://youtu.be/qfLjdHYaIL0), [source code](design-pattern/observer_pattern.py)_
 * **팩토리 패턴** - _[youtube](https://youtu.be/sHfBjSIh00o), [source code](design-pattern/factory_method_pattern.py)_
 * 스크럼
-* 에디터 자주 쓰는 단축키 설명
+* **에디터 자주 쓰는 단축키 설명** - _[youtube](https://youtu.be/orpngTIB42E)_
 * 클래스 / 시퀀스 다이어그램
 * 코드 컴플리트 2 책 요약 설명
 * **git 충돌 해결** - _[youtube](https://youtu.be/ppzhUGDneig)_
