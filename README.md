@@ -44,7 +44,7 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 * **git-flow** - _[youtube](https://youtu.be/UFXDRJ7ownc)_
 * **linux strucures** - _[youtube](https://youtu.be/DQUtHNpPExA)_
 * **bashrc** - _[youtube](https://youtu.be/of7CjrOwneM)_
-* shell script
+* **shell script** - _[youtube](https://youtu.be/kEojvfX4qi8)_
 * ssh key 인증
 * 리눅스 웹서버 구축
 * config 관리
