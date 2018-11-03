@@ -30,6 +30,7 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 * **캐시 설명 (히트, 정책 등)** - _[yotube](https://youtu.be/5DO0dmPReMo)_
 * **CPU 스케줄러** - _[youtube](https://www.youtube.com/watch?v=6hWhyjhvo58)_
 * TCP/UDP의 원리
+* **Reliable Transport** - _[cs168 project2 reliable transport](https://github.com/huhuta/cs168-fall15-proj2-reliable-transport)_
 * 비동기 I/O
 * **DB 정규화** - _[youtube](https://www.youtube.com/edit?o=U&video_id=hWHK5Htmz0o)_
 * **스트레터지 패턴** - _[youtube](https://youtu.be/Y8KVyVxdlpA), [source code](design-pattern/strategy_pattern.py)_
@@ -46,39 +47,16 @@ _Dudaji intern project for [dudaji/study](https://sites.google.com/view/dudaji/s
 * **bashrc** - _[youtube](https://youtu.be/of7CjrOwneM)_
 * **shell script** - _[youtube](https://youtu.be/kEojvfX4qi8)_
 * **ssh key 인증** - _[youtube](https://youtu.be/1FqyXau2thM)_
-* 리눅스 웹서버 구축
 * config 관리
 * logging 전략
 
 ## back-end
-* batch job (crontab)
-* rsync
-* ftp
-* ansible
-* docker
-* jenkins
-* 리눅스 권한
 * zookeeper
 * message queue like redis
 * **argparse** - _[youtube](https://youtu.be/vrDS_yidlIQ)_
 * gunicorn
 * pm2
 * fabric
-* nas mount
-* gluster fs
-
-## front-end
-* register, login, oauth
-* webpack
-* react or angular or vue
-* flux
-* flex box
-* 게시판 구현
-* mysql 
-* sequealize
-* sqlalchemy
-* react router
-* react middleware 
 
 ### reference
 * https://github.com/faif/python-patterns
